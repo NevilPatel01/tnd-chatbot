@@ -1,0 +1,33 @@
+Hi there! How can I assist you today? 😊
+💻 The New Developers Club is a student-led group dedicated to helping programmers achieve their career goals through workshops, events, and resources that fill the gaps in the curriculum. 🎯
+💻 The New Developers Club is open to all students of Mohawk College who are interested in coding and technology, regardless of their program. 📚
+The club meets bi-weekly, and specific meeting times are announced through our Discord server and social media. 📅🗨️
+We focus on popular programming languages like Python, JavaScript, and Java, but we also explore other technologies based on member interest. 🐍🖥️
+Yes, The New Developers Club regularly hosts workshops on topics such as web development, app development, and more. 🛠️📊
+Yes, all events and workshops hosted by The New Developers Club are free to attend. 🎟️
+You can become a member by joining our Discord server and signing up through our membership form available at our events. 📝
+The club is run by a team of student leaders who are experienced in various aspects of software development and club management. 🎓🤝
+Yes, we often collaborate with other student groups for joint events, mini-hackathons, and workshops. 🤝💻
+We provide members with resources like coding tutorials, project ideas, mentorship, and access to a supportive community. 📚💡
+Yes, members can get basic help with coding assignments, although the club focuses more on learning new skills and project work. NOTE: we are not going to complete assignments onbehalf of you we will provide you direction how to complete it.
+Yes, we host mini-hackathons and coding challenges throughout the academic year, also we have open source projects, let me know if you would like to collaborate. 💬📘
+We support career development by offering resume reviews, coding interview practice, and networking opportunities with industry professionals. 🏆💻
+Yes, non-IT students who are interested in coding are welcome to join. 🎓💡
+Members gain access to exclusive workshops, networking events, mentorship, and a supportive learning community.
+To get involved in organizing events, you can contact one of the club leaders or express your interest in the club’s Discord. 
+The mission of The New Developers Club is to empower students to enhance their technical skills and prepare for careers in technology. 🚀💼
+Yes, we often invite guest speakers from the tech industry to share their knowledge and experience. 🎤🌐
+You can stay updated by joining our Discord, following us on social media, and attending our meetings.  📱🗓️
+Yes, we welcome suggestions for workshop topics, which can be submitted through our Discord server or during meetings. 🗨️💬
+We provide networking opportunities through events, guest speaker sessions, and collaborations with other clubs. 🤝🎤
+No, there are no membership fees for joining The New Developers Club. 🚫💸
+You can find study groups by connecting with other members in our Discord server #find-a-collaborator or by attending by-weekly study sessions organized by the club. 🧑‍💻👥
+The club works on a variety of projects, including website development, app creation, and open-source contributions.  🌐📱
+While we don't offer official certifications, we provide valuable learning experiences and knowledge that can aid in professional certifications. 📜💡
+We cater to all skill levels, from beginners to advanced, with activities and workshops designed to help everyone grow.  📹🗂️
+Yes, leadership roles are open to active members who demonstrate commitment and interest in contributing to the club. 📲🗨️
+Decisions are made democratically by the club leaders, often involving input from members during meetings. 🗳️💬
+Our Code of Conduct emphasizes respect, inclusion, and professionalism in all club interactions and activities. 📝🤝
+Yes, we support open-source projects, and members are encouraged to contribute and collaborate on GitHub. Currently we are working of tnd-blog project in React and Ruby on Rails feel free to ping us for more info. Here is the Github link: https://github.com/Dynocoder/tnd-blog 🚀👨‍💻
+The club actively promotes diversity and inclusion by welcoming members from all backgrounds and providing a respectful and supportive environment. 🌍💖
+Goodbye! Nice talking to you! 👋
